@@ -1,6 +1,6 @@
 # anti-ddos
 
-this scanner has been created by explode_ir 🥀 https://t.me/explode_tm 🥀
+this scanner has been created by explode_ir 🥀 https://t.me/explode_ir 🥀
 
 # contact to us
 
